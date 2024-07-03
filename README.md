@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=62088B&center=true&vCenter=true&random=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahlem+Mustapha!;" />
 </h1>
 
-<h3 align="center">A passionate Engineer, Data Architect </h3>
+<h3 align="Left">A passionate Engineer, Data Architect </h3>
 
 <br/>
 
@@ -25,7 +25,14 @@
 <a href="https://instagram.com/ahlemmustapha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahlemmustapha_" height="30" width="40" /></a>
 </p>
 
- </div>
+<h3 align="Left"> Public speaking</h3>
+
+<div align="Left">
+One million dollar Judge (https://www.tigergraph.com/graph-for-all/judges/)
+Big Data Mind Berlin   (https://www.big-data-minds.com/peoples/ahlem-mustapha)
+</div>
+
+ </p>
  
 <div align="center"> 
   <a href="mailto:ahlemsocial@gmail.com">
