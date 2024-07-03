@@ -29,6 +29,7 @@
 
 <div align="Left">
 One million dollar Judge (https://www.tigergraph.com/graph-for-all/judges/)
+    
 Big Data Mind Berlin   (https://www.big-data-minds.com/peoples/ahlem-mustapha)
 </div>
 
