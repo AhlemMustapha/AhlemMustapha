@@ -2,20 +2,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=62088B&center=true&vCenter=true&random=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahlem+Mustapha!;" />
 </h1>
 
-<h3 align="center">A passionate Engineer, Data Architect from Tunisia/Germany </h3>
+<h3 align="center">A passionate Engineer, Data Architect </h3>
 
 <br/>
 
-<div align="center">
+<div align="Left">
 
 🔭 I’m currently working on **Data Architecture**
 
 👯 I’m looking to collaborate on **graph analytics, data engineering or data Viz projects**
-💬 Ask me about Graph analytics, system design, cloud, software engineering, career coaching, **
-📫 How to reach me: LinkedIn or email. **
-⚡ Fun fact: I love traveling Solo and I've been doing it for 7 years now, I love data, and working out 7/7**
 
+💬 Ask me about **Graph analytics, system design, cloud, software engineering, career coaching**
+
+📫 How to reach me: **LinkedIn or email.**
+
+⚡ Fun fact: I love traveling Solo and I've been doing it for 7 years now, I love data, and working out 7/7
+</div>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/ahlemmustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahlemmustapha" height="30" width="40" /></a>
 <a href="https://instagram.com/ahlemmustapha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahlemmustapha_" height="30" width="40" /></a>
