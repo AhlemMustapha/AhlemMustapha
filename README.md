@@ -1,11 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on a lot of cool stuff! follow to stay up-to-date
-- 👯 I’m looking to collaborate on graph analytics, data engineering or data Viz projects.
-- 🤔 I’m looking for creativity
-- 💬 Ask me about Graph analytics, system design, cloud, software engineering, career coaching, 
-- 📫 How to reach me: LinkedIn or email. 
-- ⚡ Fun fact: I love traveling Solo and I've been doing it for 7 years now, I love data, and working out 7/7
-- <h1 align="center">Hi 👋, I'm Ahlem Mustapha</h1>
+- <h1 align="center">Hi 👋, I'm Ahlem </h1>
 <h3 align="center">A passionate engineer and data architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlemmustapha&label=Profile%20views&color=0e75b6&style=flat" alt="ahlemmustapha" /> </p>
@@ -16,7 +9,10 @@
 
 - 🔭 I’m currently working on **Data Architecture**
 
-- 👯 I’m looking to collaborate on **Graph databases, Data Architecture**
+- 👯 I’m looking to collaborate on **graph analytics, data engineering or data Viz projects**
+- 💬 Ask me about Graph analytics, system design, cloud, software engineering, career coaching, 
+- 📫 How to reach me: LinkedIn or email. 
+- ⚡ Fun fact: I love traveling Solo and I've been doing it for 7 years now, I love data, and working out 7/7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
