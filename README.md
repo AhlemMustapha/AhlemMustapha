@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahlem+Mustapha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&pause=1000&color=62088B&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+👋;+I'm+Ahlem+Mustapha!;" />
 </h1>
 
 <h3 align="center">A passionate Engineer, Data Architect from Tunisia/Germany </h3>
