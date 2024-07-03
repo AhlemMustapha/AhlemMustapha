@@ -1,3 +1,13 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahlem+Mustapha!;" />
+</h1>
+
+<h3 align="center">A passionate Engineer, Data Architect from Tunisia/Germany </h3>
+
+<br/>
+
+<div align="center">
+ 
  <h1 align="center">Hi 👋, I'm Ahlem </h1>
 <h3 align="center">A passionate engineer and data architect</h3>
 
