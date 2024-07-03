@@ -11,9 +11,9 @@
 🔭 I’m currently working on **Data Architecture**
 
 👯 I’m looking to collaborate on **graph analytics, data engineering or data Viz projects**
-💬 Ask me about Graph analytics, system design, cloud, software engineering, career coaching, 
-📫 How to reach me: LinkedIn or email. 
-⚡ Fun fact: I love traveling Solo and I've been doing it for 7 years now, I love data, and working out 7/7
+💬 Ask me about Graph analytics, system design, cloud, software engineering, career coaching, **
+📫 How to reach me: LinkedIn or email. **
+⚡ Fun fact: I love traveling Solo and I've been doing it for 7 years now, I love data, and working out 7/7**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
