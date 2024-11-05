@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=62088B&center=true&vCenter=true&random=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahlem+Mustapha!;" />
 </h1>
 
-<h3 align="Left">A passionate Engineer, Data Architect </h3>
+<h3 align="Left">A passionate Engineer, Data Architect, Certified Data Engineer </h3>
 
 <br/>
 
