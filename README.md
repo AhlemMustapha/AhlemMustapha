@@ -29,9 +29,7 @@
 
 <div align="Left">
 One million dollar Judge (https://www.tigergraph.com/graph-for-all/judges/)
-    
-Big Data Mind Berlin   (https://www.big-data-minds.com/peoples/ahlem-mustapha)
-
+    Big Data Mind Berlin   (https://www.big-data-minds.com/peoples/ahlem-mustapha)
 The Future of Data: How Graph Analytics Is Shaping The World (https://www.youtube.com/watch?v=IOb2m3Ch5Kk)
 </div>
 
